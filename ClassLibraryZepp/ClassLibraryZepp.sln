@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryZepp", "ClassLibraryZepp\ClassLibraryZepp.csproj", "{DFB707DE-6FFE-4B13-B988-2217D7BDB4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB707DE-6FFE-4B13-B988-2217D7BDB4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB707DE-6FFE-4B13-B988-2217D7BDB4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB707DE-6FFE-4B13-B988-2217D7BDB4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB707DE-6FFE-4B13-B988-2217D7BDB4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

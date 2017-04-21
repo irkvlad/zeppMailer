@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="zeppMailer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NotRead" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Todey" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Wikly" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="All" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="filter" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="http_zepp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://zeppelin/zepp/</Value>
+    </Setting>
+    <Setting Name="Pochta_chek" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ConectToZepp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=zeppelin;User Id=admin;password=scoraya911;Persist Security Info=True;database=zepp;Character Set=utf8</Value>
+    </Setting>
+    <Setting Name="NameBrauser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DirBrauser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PutchPolnocvet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\ZEPPELIN\doc\polnocvet</Value>
+    </Setting>
+    <Setting Name="renemePolnocvet" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="linkPolnocvet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://zeppelin/zepp/media/com_projectlog/docs/polnocvet/</Value>
+    </Setting>
+    <Setting Name="_PutchPolnocvet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Cehcom\хранилище 1</Value>
+    </Setting>
+    <Setting Name="_linkPolnocvet" Type="System.String" Scope="User">
+      <Value Profile="(Default)">file://Cehcom/хранилище 1/</Value>
+    </Setting>
+    <Setting Name="ццц" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=zeppelin;User Id=admin;password=scoraya911;Persist Security Info=True;database=zepp;Character Set=utf8</Value>
+    </Setting>
+    <Setting Name="qqq" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=localhost;User Id=root;password=;Persist Security Info=True;database=zepp;Character Set=utf8</Value>
+    </Setting>
+    <Setting Name="laminaciy" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;000м&lt;/string&gt;
+  &lt;string&gt;000г&lt;/string&gt;
+  &lt;string&gt;010м&lt;/string&gt;
+  &lt;string&gt;010г&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

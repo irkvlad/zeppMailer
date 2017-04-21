@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibZepp.Polnocvet">
+    <Position X="0.5" Y="0.5" Width="6.75" />
+    <NestedTypes>
+      <Enum Name="LibZepp.Polnocvet.Тransparency" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="LibZepp.Polnocvet.Тexture" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="LibZepp.Polnocvet.Вensity" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="LibZepp.Polnocvet.Material" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="LibZepp.Polnocvet.Basis" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="LibZepp.Polnocvet.Stanok" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Polnocvet.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QCAAAMICANAIQoAFAIIEAIEkUCAAAoAAIARABwJCCIA=</HashCode>
+      <FileName>Polnocvet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
